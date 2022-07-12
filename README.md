@@ -35,21 +35,12 @@ Link For the deployment : https://bitcoin-price-analysis.herokuapp.com/
 
 <p align="justify"> 
   <ol>
-    <li>Introduction</li>
-    <li>Import Libraries</li>
-    <li>Data Loading</li>
-    <li>EDA</li>
-    <li>Data Preprocessing</li>
-    <li>Model Training and Model Evaluation</li>
-    <li>Model Saving</li>
-    <li>Model inference</li>
-    <li>Conclusion</li>
-
+    <li>To do an anlysis for BTCUSD using price analysis, volume analysis, and technical analysis using EDA for the historical BTCUSDT price data from 2017 to 2022.</li>
+    <li>Build a predictive model to forecast the next day price for BTCUSDT.</li>
+    <li>To combine the human-side analysis with machine learning analysis to determine the market direction and forecast the direction of the market.</li>
   </ol>
 </p>
-
-<p align="center">
-  <img src="images/WISDM Activities.png" alt="Table1: 18 Activities" width="70%" height="70%">        
+    
   <!--figcaption>Caption goes here</figcaption-->
 </p>
 
