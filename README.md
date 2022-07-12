@@ -31,7 +31,7 @@ Link For the deployment : https://bitcoin-price-analysis.herokuapp.com/
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <!-- ABOUT THE PROJECT -->
-<h2 id="Objective of this project"> :pencil: About The Project</h2>
+<h2 id="Objective of this project"> :pencil: Objective of this project</h2>
 
 <p align="justify"> 
   <ol>
